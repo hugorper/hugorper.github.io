@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            hugo PEREIRA
-tagline:          'A personal presentation Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'A personal presentation'
+description:      'Coming soon'
 url:              https://github.com/hugorper.github.io
 baseurl:          /
 
