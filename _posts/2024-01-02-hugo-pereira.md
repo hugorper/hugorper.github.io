@@ -4,9 +4,11 @@ title: Hugo Pereira
 ---
 
 <style>
-td, th, tr
+td, th, tr, table
 {
   border: 0px !important;
+  background-color: white !important;
+  vertical-align: baseline !important;
 }
 </style>
 <table>
