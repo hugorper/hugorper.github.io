@@ -3,13 +3,19 @@ layout: post
 title: Hugo Pereira
 ---
 
+<style>
+td, th, tr
+{
+  border: 0px !important;
+}
+</style>
 <table>
 <colgroup>
 <col style="width: 45%" />
 <col style="width: 54%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr class="header" style="text-align: left;">
 <th><div data-custom-style="BigHP">
 <p>Hugo Pereira</p>
 </div>
